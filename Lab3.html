@@ -1,0 +1,223 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Lab2</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Lab2</strong></a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Execution of different functionalities in Seeed Xiao nRF52840 Sense</h1>
+									</header>
+									
+									<p><strong>1. Built-in IMU and Microphone:</strong></p>
+									<p></p>
+									<span class="image object">
+										<img src="Images/Pic012.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic011.png" alt="HLE" width="800" />
+									</span>
+									<p>Next we are testing the microphone using PDMSerialPlotter</p>
+									<span class="image object">
+										<img src="Images/Pic013.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic014.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic015.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>2. OLED Display:</strong></p>
+									<p>Here we are executing a sample code to print the text message in display of Seeed Xiao using "u8g2" Library</p>
+									<span class="image object">
+										<img src="Images/Pic016.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic017.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+
+									<p><strong>3. MicroSD Card Datalogger:</strong></p>
+									<p>Here we are writing and reading data from the SD Card and observing the output in the serial monitor</p>
+									
+									<p><strong>Positive scenario:</strong></p>
+									<p>As SD card is inserted in port-2, we will write and read data from port 2. So, we should be able to see the random string data</p>
+									<span class="image object">
+										<img src="Images/Pic018.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic019.png" alt="HLE" width="800" />
+									</span>
+									<p><strong>Negative scenario:</strong></p>
+									<p>Here we will try to get the data from the port other than 2. So, we should see some failed cases</p>
+									<span class="image object">
+										<img src="Images/Pic020.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic021.png" alt="HLE" width="800" />
+									</span>
+									<p><strong>DATALOG File:</strong></p>
+									<div>
+    										<a href="Documents/DATALOG.TXT" target="_blank" download="DATALOG.txt">
+        									Click here to view or download the document
+    										</a>
+									</div>
+									<hr class="major" />
+									
+									<p><strong>4. RTC (Real-time clock):</strong></p>
+									<p>Here we are generating the real time clock using "PCF8563" Library and observing the output through serial monitor</p>
+									<span class="image object">
+										<img src="Images/Pic022.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic023.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+
+									<p><strong>5. Buzzer:</strong></p>
+									<p>Here we are validating the buzzer by playing the Happy Birthday Music</p>
+									<span class="image object">
+										<img src="Images/Pic024.png" alt="HLE" width="800" />
+									</span>
+									<video controls width="500" height="500">
+    										<source src="Videos/VID005.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<hr class="major" />
+
+									<p><strong>6. Bluetooth Low Energy:</strong></p>
+									<p>Here we are using "ArduinoBLE" Library for validating the Bluetooth functionality by sending the data input form mobile app (nRF Connect app) and controling the LED in the Micro Controller</p>
+									<span class="image object">
+										<img src="Images/Pic025.png" alt="HLE" width="800" />
+									</span>
+									<video controls width="500" height="500">
+    										<source src="Videos/VID004.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<hr class="major" />
+									
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="generic.html">Background</a></li>
+										<li><a href="elements.html">Ongoing Projects</a></li>
+										<li>
+											<span class="opener">Lab Assignments</span>
+											<ul>
+												<li><a href="Lab1&2.html">Lab1&2</a></li>
+												<li><a href="Lab2.html">Lab2</a></li>
+												<li><a href="#">Temp3</a></li>
+												<li><a href="#">Temp4</a></li>
+											</ul>
+										</li>
+										
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Some Heading</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Content1</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Content2</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Content3</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Feel Free to reach out to me</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">PrudhvilokAttur@my.unt.edu</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">Denton,Tx - 76205</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
