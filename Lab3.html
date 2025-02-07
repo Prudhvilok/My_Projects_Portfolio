@@ -66,12 +66,44 @@
 									<span class="image object">
 										<img src="Images/Pic030.png" alt="HLE" width="800" />
 									</span>
+									<hr class="major" />
+									<p>
+										1. System Initialization:
+On startup, the microcontroller initializes the sensors, RTC, SD card module, and
+OLED display.
+The OLED shows the current battery voltage and system status (ON/OFF).
+
+2. Bluetooth Control:
+The user connects to the system via Bluetooth and sends commands to turn the system
+ON or OFF.
+When ON, the system begins recording data; when OFF, it halts data logging but keeps
+Bluetooth active.
+
+3. Battery Monitoring:
+Continuously reads the battery voltage through the ADC pin.
+If the voltage drops below the threshold (e.g., 3.2V), the system:
+and Stops logging data.
+Displays a warning message on the OLED (e.g., "Low Battery: Logging
+Stopped").
+
+4. Data Logging:
+While ON, the system:
+Reads sensor data (microphone, temperature, IMU).
+Timestamps the data using the RTC.
+Logs data to the SD card in a structured format (e.g., CSV or JSON).
+When OFF, logging is paused, and the OLED updates with the system status.
+
+5. Real-Time Display:
+The OLED continuously updates to show:
+Current battery voltage.
+System status (ON/OFF)
+									</p>
 
 									
 									
 									<p><strong>DATALOG File:</strong></p>
 									<div>
-    										<a href="Documents/DATALOG.TXT" target="_blank" download="DATALOG.txt">
+    										<a href="Documents/DATALOG1.TXT" target="_blank" download="DATALOG.txt">
         									Click here to view or download the document
     										</a>
 									</div>
@@ -79,7 +111,11 @@
 									
 									
 									<video controls width="500" height="500">
-    										<source src="Videos/VID005.mp4" type="video/mp4">
+    										<source src="Videos/VID006.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<video controls width="500" height="500">
+    										<source src="Videos/VID007.mp4" type="video/mp4">
     										Your browser does not support the video tag.
 									</video>
 									<hr class="major" />
