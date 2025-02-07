@@ -38,15 +38,17 @@
 										<h1>Voltage Divider and Battery Monitorin in Seeed Xiao nRF52840 Sense</h1>
 									</header>
 									
-									<p><strong>1. Built-in IMU and Microphone:</strong></p>
+									<p><strong>1.Circuit Diagram</strong></p>
 									<p></p>
 									<span class="image object">
-										<img src="Images/Pic012.png" alt="HLE" width="800" />
+										<img src="Images/Pic026.png" alt="HLE" width="800" />
 									</span>
-									<span class="image object">
-										<img src="Images/Pic011.png" alt="HLE" width="800" />
-									</span>
-									<p>Next we are testing the microphone using PDMSerialPlotter</p>
+									<p>In our case We have taken 3 resistors, so R1 will be 2 resistors in series and R2 will be the separate resistor.</p>
+									<p>R1 = 680+2200 = 2800 ohms</p>
+									<p>R2 = 10000 ohms</p>
+									<p>Vout = Vin*(R2/(R1+R2))</p>
+									<p>We have Vout = 3.3v and Vin = 4.2v</p>
+									<p>After calculation we will get the R1/R2 ratio as 0.28. So, we have choosen R1 and R2 bases on this ratio.</p>
 									<span class="image object">
 										<img src="Images/Pic013.png" alt="HLE" width="800" />
 									</span>
