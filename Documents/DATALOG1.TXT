@@ -1,0 +1,928 @@
+4/3/25 19:33:1, Microphone: 3, Temp =  79.01, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:33:2, Microphone: 0, Temp =  79.12, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:4, Microphone: 43, Temp =  79.10, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:5, Microphone: 40, Temp =  79.16, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:7, Microphone: -75, Temp =  79.14, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.14
+
+4/3/25 19:33:8, Microphone: 20, Temp =  79.29, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:33:9, Microphone: 19, Temp =  79.29, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:11, Microphone: 25, Temp =  79.29, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:13, Microphone: 15, Temp =  79.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:14, Microphone: 3, Temp =  79.42, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:16, Microphone: 29, Temp =  79.38, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:17, Microphone: -102, Temp =  79.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:19, Microphone: 40, Temp =  79.45, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:33:20, Microphone: -41, Temp =  79.50, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:22, Microphone: -1, Temp =  79.43, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:23, Microphone: 2, Temp =  79.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:25, Microphone: -72, Temp =  79.56, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:33:26, Microphone: 11, Temp =  79.57, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:28, Microphone: 21, Temp =  79.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:29, Microphone: -7, Temp =  79.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.42
+
+4/3/25 19:33:31, Microphone: 33, Temp =  79.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:33:32, Microphone: 33, Temp =  79.54, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.22, GyroZ =  0.35
+
+4/3/25 19:33:34, Microphone: -49, Temp =  79.55, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:33:36, Microphone: -11, Temp =  79.55, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:37, Microphone: 24, Temp =  79.59, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:33:39, Microphone: -15, Temp =  79.62, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:40, Microphone: -8, Temp =  79.51, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:33:42, Microphone: -27, Temp =  79.59, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:43, Microphone: 65, Temp =  79.57, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:33:45, Microphone: 5, Temp =  79.54, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:47, Microphone: -3, Temp =  79.55, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:48, Microphone: -2, Temp =  79.61, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:50, Microphone: 17, Temp =  79.57, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:33:51, Microphone: -26, Temp =  79.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:53, Microphone: -13, Temp =  79.62, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:33:54, Microphone: 25, Temp =  79.66, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:56, Microphone: 28, Temp =  79.63, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:58, Microphone: -70, Temp =  79.62, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:33:59, Microphone: 23, Temp =  79.64, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:1, Microphone: 9, Temp =  79.66, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:2, Microphone: -14, Temp =  79.74, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:34:4, Microphone: 22, Temp =  79.72, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.28
+
+4/3/25 19:34:5, Microphone: 8, Temp =  79.65, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:7, Microphone: 3, Temp =  79.69, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:34:8, Microphone: 40, Temp =  79.74, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:10, Microphone: -15, Temp =  79.74, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:11, Microphone: 47, Temp =  79.67, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:34:13, Microphone: 11, Temp =  79.76, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:14, Microphone: 18, Temp =  79.69, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:34:16, Microphone: 42, Temp =  79.73, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.22, GyroZ =  0.28
+
+4/3/25 19:34:17, Microphone: -11, Temp =  79.76, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:34:19, Microphone: -49, Temp =  79.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:20, Microphone: -2, Temp =  79.85, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:34:22, Microphone: 30, Temp =  79.76, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:23, Microphone: -5, Temp =  79.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:34:25, Microphone: -20, Temp =  79.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:34:26, Microphone: 5, Temp =  79.74, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.42
+
+4/3/25 19:34:28, Microphone: -1, Temp =  79.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:29, Microphone: -15, Temp =  79.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:31, Microphone: 10, Temp =  79.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:32, Microphone: -44, Temp =  79.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:34:34, Microphone: 61, Temp =  79.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:35, Microphone: -8, Temp =  79.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:34:37, Microphone: -1, Temp =  79.95, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:39, Microphone: -75, Temp =  79.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:40, Microphone: 13, Temp =  79.88, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:42, Microphone: 37, Temp =  79.85, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:43, Microphone: 37, Temp =  79.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:45, Microphone: 44, Temp =  79.95, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:34:46, Microphone: -32, Temp =  79.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:48, Microphone: 6, Temp =  79.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:34:49, Microphone: 34, Temp =  79.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.07, GyroY =  -2.59, GyroZ =  0.00
+
+4/3/25 19:34:51, Microphone: -47, Temp =  79.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:52, Microphone: 2, Temp =  80.01, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:34:54, Microphone: -7, Temp =  80.03, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:55, Microphone: -49, Temp =  79.98, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:57, Microphone: -20, Temp =  79.96, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:34:59, Microphone: -18, Temp =  79.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:0, Microphone: -20, Temp =  79.96, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:35:2, Microphone: -19, Temp =  80.00, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:35:3, Microphone: -51, Temp =  80.00, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:35:5, Microphone: -38, Temp =  79.99, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.42
+
+4/3/25 19:35:6, Microphone: 0, Temp =  79.91, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:8, Microphone: 15, Temp =  80.00, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.22, GyroZ =  0.42
+
+4/3/25 19:35:9, Microphone: -65, Temp =  79.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:35:11, Microphone: 17, Temp =  79.99, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:35:12, Microphone: -2, Temp =  80.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.49
+
+4/3/25 19:35:14, Microphone: 10, Temp =  79.95, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:15, Microphone: 0, Temp =  80.00, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:35:17, Microphone: -10, Temp =  80.02, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:18, Microphone: -23, Temp =  80.04, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:20, Microphone: -90, Temp =  80.00, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:22, Microphone: -2, Temp =  80.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:23, Microphone: 31, Temp =  80.10, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:35:25, Microphone: -18, Temp =  80.04, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:35:26, Microphone: -15, Temp =  80.08, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:28, Microphone: 39, Temp =  80.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:35:29, Microphone: 28, Temp =  79.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:35:31, Microphone: 36, Temp =  80.10, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:32, Microphone: -15, Temp =  80.02, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:35:34, Microphone: -15, Temp =  80.13, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:35, Microphone: 18, Temp =  80.01, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:37, Microphone: 28, Temp =  80.03, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:38, Microphone: -12, Temp =  80.02, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:35:40, Microphone: 13, Temp =  80.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:35:41, Microphone: -11, Temp =  80.11, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -2.80, GyroZ =  0.49
+
+4/3/25 19:35:43, Microphone: -8, Temp =  80.06, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:44, Microphone: 27, Temp =  80.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.14, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:46, Microphone: 10, Temp =  80.20, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:47, Microphone: -26, Temp =  80.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:49, Microphone: 12, Temp =  80.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:35:50, Microphone: 21, Temp =  80.11, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:35:52, Microphone: -45, Temp =  80.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.56
+
+4/3/25 19:35:54, Microphone: -22, Temp =  80.13, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:35:55, Microphone: 17, Temp =  80.14, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:35:57, Microphone: -24, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:58, Microphone: 4, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:0, Microphone: 45, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:36:1, Microphone: 29, Temp =  80.19, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:36:3, Microphone: 9, Temp =  80.18, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:36:4, Microphone: 29, Temp =  80.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:36:6, Microphone: -1, Temp =  80.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:7, Microphone: 27, Temp =  80.16, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:36:9, Microphone: 19, Temp =  80.20, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:36:10, Microphone: 29, Temp =  80.19, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:36:12, Microphone: 7, Temp =  80.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -17.92, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:13, Microphone: 5, Temp =  80.20, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:36:15, Microphone: 2, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:16, Microphone: 3, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:18, Microphone: 21, Temp =  80.24, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:36:19, Microphone: -38, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:36:21, Microphone: -30, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:36:23, Microphone: 0, Temp =  80.28, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:36:24, Microphone: 12, Temp =  80.21, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.49
+
+4/3/25 19:36:26, Microphone: -9, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:36:28, Microphone: -8, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:36:29, Microphone: -1, Temp =  80.34, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:36:31, Microphone: -50, Temp =  80.34, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:36:33, Microphone: -59, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:36:34, Microphone: 21, Temp =  80.29, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:36, Microphone: 16, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:37, Microphone: 63, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:36:39, Microphone: 55, Temp =  80.28, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:36:41, Microphone: 13, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:42, Microphone: -29, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.49
+
+4/3/25 19:36:44, Microphone: -40, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  -0.14, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:45, Microphone: 10, Temp =  80.18, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.49
+
+4/3/25 19:36:47, Microphone: -30, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:36:49, Microphone: -55, Temp =  80.14, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:36:50, Microphone: -5, Temp =  80.22, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:52, Microphone: -8, Temp =  80.25, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:36:53, Microphone: 59, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:36:55, Microphone: 41, Temp =  80.20, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:36:56, Microphone: 21, Temp =  80.28, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:36:58, Microphone: -44, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:37:0, Microphone: -49, Temp =  80.22, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.15, GyroZ =  0.42
+
+4/3/25 19:37:1, Microphone: 46, Temp =  80.21, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:37:3, Microphone: 36, Temp =  80.28, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:37:4, Microphone: 47, Temp =  80.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:44:22, Microphone: -27, Temp =  80.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:44:24, Microphone: 56, Temp =  80.29, AccX =  -0.02, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:44:25, Microphone: -59, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:44:27, Microphone: -45, Temp =  80.33, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:44:29, Microphone: -16, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:44:30, Microphone: 17, Temp =  80.43, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:44:32, Microphone: 72, Temp =  80.27, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:44:33, Microphone: 43, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:44:35, Microphone: 6, Temp =  80.34, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:44:37, Microphone: -12, Temp =  80.40, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:44:38, Microphone: 16, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:44:53, Microphone: -26, Temp =  80.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:44:54, Microphone: -13, Temp =  80.33, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:44:56, Microphone: 15, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:44:57, Microphone: -55, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:44:59, Microphone: 49, Temp =  80.24, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:45:0, Microphone: -29, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:45:2, Microphone: -14, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:45:4, Microphone: -26, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:45:5, Microphone: 37, Temp =  80.34, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:45:7, Microphone: 64, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.21
+
+4/3/25 19:45:8, Microphone: 34, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:45:10, Microphone: 10, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:45:12, Microphone: 25, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:45:13, Microphone: -32, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:45:15, Microphone: 15, Temp =  80.38, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:45:16, Microphone: 14, Temp =  80.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:45:18, Microphone: -10, Temp =  80.26, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:45:19, Microphone: 24, Temp =  80.32, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:45:21, Microphone: -21, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:45:22, Microphone: 47, Temp =  80.33, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:45:24, Microphone: 46, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:45:25, Microphone: 17, Temp =  80.30, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.14
+
+4/3/25 19:45:27, Microphone: -54, Temp =  80.31, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:45:28, Microphone: 46, Temp =  80.38, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:45:30, Microphone: 67, Temp =  80.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.28, GyroY =  -2.73, GyroZ =  0.28
+
+4/3/25 19:45:32, Microphone: 6, Temp =  80.38, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:45:33, Microphone: -3, Temp =  80.42, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:45:35, Microphone: -27, Temp =  80.33, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:45:36, Microphone: 71, Temp =  80.33, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:45:38, Microphone: -7, Temp =  80.32, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.49
+
+4/3/25 19:45:40, Microphone: -56, Temp =  80.37, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:45:41, Microphone: 9, Temp =  80.41, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:45:43, Microphone: -12, Temp =  80.37, AccX =  -0.04, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:45:44, Microphone: 23, Temp =  80.34, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:45:46, Microphone: -47, Temp =  80.36, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:45:48, Microphone: -36, Temp =  80.32, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:45:49, Microphone: 30, Temp =  80.35, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:45:51, Microphone: -9, Temp =  80.41, AccX =  -0.06, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  -29.12
+
+4/3/25 19:45:52, Microphone: -3, Temp =  80.42, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.49
+
+4/3/25 19:45:54, Microphone: -26, Temp =  80.43, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:45:56, Microphone: -23, Temp =  80.42, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:45:57, Microphone: 3, Temp =  80.42, AccX =  -0.02, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:45:59, Microphone: -30, Temp =  80.44, AccX =  -0.02, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:46:0, Microphone: 21, Temp =  80.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:46:2, Microphone: 24, Temp =  80.43, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:46:4, Microphone: 54, Temp =  80.43, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:46:5, Microphone: 9, Temp =  80.48, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:46:7, Microphone: -3, Temp =  80.47, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.49
+
+4/3/25 19:46:8, Microphone: 26, Temp =  80.47, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:46:10, Microphone: 50, Temp =  80.52, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:46:12, Microphone: -2, Temp =  80.48, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.21
+
+4/3/25 19:46:13, Microphone: -22, Temp =  80.44, AccX =  -0.02, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:46:15, Microphone: -25, Temp =  80.45, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:46:16, Microphone: 16, Temp =  80.47, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:46:18, Microphone: 47, Temp =  80.43, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:46:19, Microphone: 59, Temp =  80.46, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:46:21, Microphone: -37, Temp =  80.44, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:46:23, Microphone: 26, Temp =  80.49, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:46:24, Microphone: -48, Temp =  80.41, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:46:26, Microphone: 17, Temp =  80.41, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:46:27, Microphone: -1, Temp =  80.49, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:46:29, Microphone: -6, Temp =  80.46, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.21
+
+4/3/25 19:46:31, Microphone: 11, Temp =  80.45, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.66, GyroZ =  0.35
+
+4/3/25 19:46:32, Microphone: 7, Temp =  80.52, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:46:34, Microphone: 10, Temp =  80.54, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:46:35, Microphone: 14, Temp =  80.57, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:46:37, Microphone: 19, Temp =  80.54, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:46:39, Microphone: -21, Temp =  80.56, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:46:40, Microphone: -12, Temp =  80.59, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:46:42, Microphone: 8, Temp =  80.53, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:46:43, Microphone: 11, Temp =  80.53, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:46:45, Microphone: -19, Temp =  80.61, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:46:46, Microphone: 18, Temp =  80.60, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:33:0, Microphone: 132, Temp =  80.45, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:2, Microphone: -107, Temp =  80.64, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.49
+
+4/3/25 19:33:3, Microphone: 20, Temp =  80.64, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:5, Microphone: -43, Temp =  80.68, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:33:7, Microphone: -46, Temp =  80.63, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:8, Microphone: -12, Temp =  80.66, AccX =  -0.02, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:10, Microphone: 2, Temp =  80.66, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:11, Microphone: 73, Temp =  80.62, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:33:13, Microphone: 13, Temp =  80.61, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:14, Microphone: 32, Temp =  80.67, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:33:16, Microphone: 35, Temp =  80.64, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:17, Microphone: 35, Temp =  80.68, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:19, Microphone: -14, Temp =  80.62, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:20, Microphone: 31, Temp =  80.73, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:22, Microphone: 85, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:33:24, Microphone: -19, Temp =  80.70, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.14, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:25, Microphone: 33, Temp =  80.62, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.42
+
+4/3/25 19:33:27, Microphone: -20, Temp =  80.70, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:28, Microphone: -26, Temp =  80.75, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:30, Microphone: -55, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  17.85, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:31, Microphone: 3, Temp =  80.64, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:33, Microphone: 32, Temp =  80.77, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:33:35, Microphone: -70, Temp =  80.67, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:36, Microphone: -93, Temp =  80.68, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.80, GyroZ =  0.21
+
+4/3/25 19:33:38, Microphone: -47, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.56
+
+4/3/25 19:33:39, Microphone: 47, Temp =  80.66, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.66, GyroZ =  0.28
+
+4/3/25 19:33:41, Microphone: -47, Temp =  80.67, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:42, Microphone: -8, Temp =  80.74, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:44, Microphone: 14, Temp =  80.64, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:45, Microphone: 2, Temp =  80.68, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:47, Microphone: -12, Temp =  80.75, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:48, Microphone: -1, Temp =  80.67, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:33:50, Microphone: 24, Temp =  80.75, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:33:51, Microphone: 0, Temp =  80.70, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.07
+
+4/3/25 19:33:53, Microphone: -49, Temp =  80.64, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -17.85, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:33:55, Microphone: -29, Temp =  80.77, AccX =  -0.03, AccY =  -0.01, AccZ =  1.12, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.49
+
+4/3/25 19:33:56, Microphone: -42, Temp =  80.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:58, Microphone: 10, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:33:59, Microphone: 32, Temp =  80.71, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:1, Microphone: 0, Temp =  80.75, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.07
+
+4/3/25 19:34:2, Microphone: -58, Temp =  80.71, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.14
+
+4/3/25 19:34:4, Microphone: -27, Temp =  80.73, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.66, GyroZ =  0.28
+
+4/3/25 19:34:5, Microphone: 26, Temp =  80.78, AccX =  -0.02, AccY =  -0.01, AccZ =  1.01, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:7, Microphone: -64, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:8, Microphone: 40, Temp =  80.78, AccX =  -0.02, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:34:10, Microphone: 1, Temp =  80.82, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.56
+
+4/3/25 19:34:11, Microphone: -30, Temp =  80.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:13, Microphone: -33, Temp =  80.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:14, Microphone: -45, Temp =  80.77, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:16, Microphone: 17, Temp =  80.71, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:34:18, Microphone: 42, Temp =  80.73, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.52, GyroZ =  0.28
+
+4/3/25 19:34:19, Microphone: -5, Temp =  80.75, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:21, Microphone: 17, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:22, Microphone: 2, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  17.85, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:24, Microphone: -1, Temp =  80.79, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:26, Microphone: 35, Temp =  80.74, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:27, Microphone: 0, Temp =  80.70, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.14
+
+4/3/25 19:34:29, Microphone: 12, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:30, Microphone: 6, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:34:32, Microphone: 2, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:33, Microphone: 15, Temp =  80.81, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:34:35, Microphone: -26, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:36, Microphone: -15, Temp =  80.83, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:34:38, Microphone: -99, Temp =  80.87, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:39, Microphone: -3, Temp =  80.88, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:34:41, Microphone: -33, Temp =  80.93, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:43, Microphone: -33, Temp =  80.95, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.49
+
+4/3/25 19:34:44, Microphone: -8, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:34:46, Microphone: 26, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:47, Microphone: -63, Temp =  80.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:49, Microphone: 58, Temp =  80.86, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:34:50, Microphone: -55, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:34:52, Microphone: 20, Temp =  81.06, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:54, Microphone: 17, Temp =  80.89, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.21
+
+4/3/25 19:34:55, Microphone: -19, Temp =  80.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.07
+
+4/3/25 19:34:57, Microphone: 6, Temp =  80.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:34:58, Microphone: -21, Temp =  80.95, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:35:0, Microphone: 31, Temp =  80.98, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:1, Microphone: -4, Temp =  81.04, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:3, Microphone: 61, Temp =  80.97, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:35:4, Microphone: 24, Temp =  80.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:35:6, Microphone: 31, Temp =  80.96, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.42
+
+4/3/25 19:35:8, Microphone: -29, Temp =  80.97, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:9, Microphone: -4, Temp =  81.08, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:35:11, Microphone: 15, Temp =  80.98, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:35:12, Microphone: -20, Temp =  80.95, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:35:14, Microphone: 72, Temp =  80.92, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:35:15, Microphone: 17, Temp =  80.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:35:17, Microphone: 3, Temp =  81.03, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:35:19, Microphone: -43, Temp =  80.97, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:35:20, Microphone: 19, Temp =  81.05, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:35:22, Microphone: -23, Temp =  80.97, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:35:24, Microphone: 45, Temp =  80.92, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.14
+
+4/3/25 19:35:25, Microphone: 15, Temp =  80.90, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:35:27, Microphone: 19, Temp =  81.03, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:29, Microphone: 10, Temp =  81.07, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:35:30, Microphone: 22, Temp =  81.04, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:35:32, Microphone: 18, Temp =  81.06, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:35:34, Microphone: -28, Temp =  81.06, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:35:35, Microphone: -13, Temp =  81.00, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:37, Microphone: -1, Temp =  81.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.14
+
+4/3/25 19:35:39, Microphone: -46, Temp =  81.11, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:35:40, Microphone: 56, Temp =  81.09, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:35:42, Microphone: 84, Temp =  81.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:35:43, Microphone: -12, Temp =  81.04, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:35:45, Microphone: -23, Temp =  81.08, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:35:47, Microphone: 42, Temp =  81.01, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:35:48, Microphone: 38, Temp =  80.99, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:35:50, Microphone: 2, Temp =  81.07, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:0, Microphone: 118, Temp =  80.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:33:2, Microphone: 24, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:3, Microphone: 8, Temp =  81.08, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:5, Microphone: 13, Temp =  81.10, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:7, Microphone: -44, Temp =  81.13, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.21
+
+4/3/25 19:33:8, Microphone: 3, Temp =  81.13, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:33:10, Microphone: -32, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:12, Microphone: -3, Temp =  81.22, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:33:13, Microphone: -23, Temp =  81.22, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:33:15, Microphone: 34, Temp =  81.21, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:33:17, Microphone: 4, Temp =  81.11, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:33:18, Microphone: 16, Temp =  81.20, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.49
+
+4/3/25 19:33:20, Microphone: 18, Temp =  81.23, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:22, Microphone: 5, Temp =  81.17, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:33:23, Microphone: 11, Temp =  81.14, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:25, Microphone: -20, Temp =  81.16, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:26, Microphone: 59, Temp =  81.20, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:33:28, Microphone: -33, Temp =  81.22, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:29, Microphone: -25, Temp =  81.13, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:0, Microphone: 102, Temp =  80.91, AccX =  -0.02, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:33:2, Microphone: 22, Temp =  81.14, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:33:3, Microphone: 11, Temp =  81.05, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:5, Microphone: 12, Temp =  81.08, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:33:7, Microphone: 41, Temp =  81.11, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:8, Microphone: -2, Temp =  80.99, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.28
+
+4/3/25 19:33:10, Microphone: 31, Temp =  81.10, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:12, Microphone: 35, Temp =  81.06, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:13, Microphone: -10, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:15, Microphone: -29, Temp =  81.15, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:17, Microphone: -8, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.14
+
+4/3/25 19:33:18, Microphone: 25, Temp =  81.07, AccX =  -0.02, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.21
+
+4/3/25 19:33:20, Microphone: -8, Temp =  81.08, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:33:22, Microphone: -12, Temp =  81.12, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:23, Microphone: -26, Temp =  81.12, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:25, Microphone: -9, Temp =  81.13, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:27, Microphone: -21, Temp =  81.12, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:28, Microphone: -5, Temp =  81.15, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:30, Microphone: -8, Temp =  81.15, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:33:31, Microphone: 20, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:33, Microphone: -8, Temp =  81.09, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.21
+
+4/3/25 19:33:0, Microphone: 156, Temp =  80.50, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.49
+
+4/3/25 19:33:2, Microphone: 34, Temp =  80.70, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:33:4, Microphone: -20, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:6, Microphone: 4, Temp =  80.73, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.35
+
+4/3/25 19:33:7, Microphone: -13, Temp =  80.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:33:9, Microphone: -10, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.08, GyroZ =  0.21
+
+4/3/25 19:33:11, Microphone: 7, Temp =  80.86, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:33:12, Microphone: -8, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:33:14, Microphone: 8, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.21
+
+4/3/25 19:33:16, Microphone: 23, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:33:17, Microphone: -14, Temp =  80.79, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.73, GyroZ =  0.42
+
+4/3/25 19:33:19, Microphone: 28, Temp =  80.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:21, Microphone: -47, Temp =  80.84, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:33:23, Microphone: -49, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:24, Microphone: -37, Temp =  80.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:26, Microphone: 13, Temp =  80.96, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.49
+
+4/3/25 19:33:28, Microphone: 28, Temp =  80.85, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.14
+
+4/3/25 19:33:29, Microphone: -25, Temp =  80.82, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.66, GyroZ =  0.42
+
+4/3/25 19:33:31, Microphone: 44, Temp =  80.82, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:33:32, Microphone: -3, Temp =  80.89, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.29, GyroZ =  0.28
+
+4/3/25 19:33:34, Microphone: 58, Temp =  80.83, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.80, GyroZ =  0.21
+
+4/3/25 19:33:36, Microphone: -6, Temp =  80.85, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:37, Microphone: 22, Temp =  80.77, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:33:39, Microphone: 19, Temp =  80.71, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.49
+
+4/3/25 19:33:41, Microphone: 15, Temp =  80.68, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:42, Microphone: 1, Temp =  80.71, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:33:44, Microphone: 17, Temp =  80.76, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:33:46, Microphone: -46, Temp =  80.72, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.42
+
+4/3/25 19:33:47, Microphone: 7, Temp =  80.78, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:33:58, Microphone: 37, Temp =  80.84, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:33:59, Microphone: -31, Temp =  80.91, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:34:1, Microphone: -33, Temp =  80.82, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:3, Microphone: 21, Temp =  80.78, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:5, Microphone: 0, Temp =  80.80, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:34:6, Microphone: 14, Temp =  80.84, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:8, Microphone: 77, Temp =  80.85, AccX =  -0.03, AccY =  -0.01, AccZ =  1.01, GyroX =  0.00, GyroY =  -3.08, GyroZ =  0.35
+
+4/3/25 19:34:10, Microphone: -37, Temp =  80.91, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:11, Microphone: 38, Temp =  80.87, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:13, Microphone: -187, Temp =  80.82, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:15, Microphone: 40, Temp =  80.84, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:34:17, Microphone: 58, Temp =  80.86, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:34:18, Microphone: -3, Temp =  80.87, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:20, Microphone: -4, Temp =  80.88, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:34:22, Microphone: -31, Temp =  80.87, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.80, GyroZ =  0.35
+
+4/3/25 19:34:23, Microphone: 18, Temp =  80.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.66, GyroZ =  0.42
+
+4/3/25 19:34:25, Microphone: -19, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:27, Microphone: -18, Temp =  80.86, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.14, GyroY =  -2.87, GyroZ =  0.42
+
+4/3/25 19:34:29, Microphone: -58, Temp =  80.84, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.35
+
+4/3/25 19:34:30, Microphone: -22, Temp =  80.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:34:32, Microphone: -60, Temp =  80.86, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:33, Microphone: -25, Temp =  80.88, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:35, Microphone: -34, Temp =  80.90, AccX =  -0.03, AccY =  -0.02, AccZ =  1.01, GyroX =  0.07, GyroY =  -2.59, GyroZ =  0.42
+
+4/3/25 19:34:37, Microphone: 29, Temp =  80.81, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.21
+
+4/3/25 19:34:38, Microphone: 12, Temp =  80.90, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.15, GyroZ =  0.35
+
+4/3/25 19:34:40, Microphone: 25, Temp =  80.87, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.21, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:34:42, Microphone: -20, Temp =  80.88, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.14
+
+4/3/25 19:34:43, Microphone: -29, Temp =  80.92, AccX =  -0.02, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.28
+
+4/3/25 19:34:45, Microphone: 0, Temp =  80.90, AccX =  -0.04, AccY =  -0.01, AccZ =  1.00, GyroX =  0.14, GyroY =  -3.08, GyroZ =  0.28
+
+4/3/25 19:34:47, Microphone: -13, Temp =  80.81, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.66, GyroZ =  0.42
+
+4/3/25 19:34:49, Microphone: 16, Temp =  80.91, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.28
+
+4/3/25 19:34:50, Microphone: -20, Temp =  80.94, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:52, Microphone: 7, Temp =  80.92, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  -0.14, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:34:54, Microphone: 16, Temp =  80.87, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -3.01, GyroZ =  0.35
+
+4/3/25 19:34:55, Microphone: -13, Temp =  80.92, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.73, GyroZ =  0.42
+
+4/3/25 19:34:57, Microphone: 9, Temp =  80.93, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.94, GyroZ =  0.28
+
+4/3/25 19:34:59, Microphone: 31, Temp =  80.89, AccX =  -0.03, AccY =  -0.01, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.80, GyroZ =  0.42
+
+4/3/25 19:35:0, Microphone: 4, Temp =  81.02, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -2.87, GyroZ =  0.21
+
+4/3/25 19:35:2, Microphone: -3, Temp =  80.97, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.00, GyroY =  -3.01, GyroZ =  0.42
+
+4/3/25 19:35:4, Microphone: -58, Temp =  80.92, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:35:5, Microphone: 33, Temp =  80.99, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.49
+
+4/3/25 19:35:7, Microphone: -132, Temp =  80.99, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  0.07, GyroY =  -2.87, GyroZ =  0.35
+
+4/3/25 19:35:9, Microphone: -33, Temp =  81.03, AccX =  -0.03, AccY =  -0.02, AccZ =  1.00, GyroX =  -0.07, GyroY =  -2.87, GyroZ =  0.21
+
