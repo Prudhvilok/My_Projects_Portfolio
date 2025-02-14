@@ -126,39 +126,8 @@
 									<hr class="major" />
 									
 									<pre>
-<strong>1. System Workflow:</strong>
-<strong>1. System Initialization:</strong>
-On startup, the microcontroller initializes the sensors, RTC, SD card module, and OLED display.
-The OLED shows the current battery voltage and system status (ON/OFF).
-
-<strong>2. Bluetooth Control:</strong>
-The user connects to the system via Bluetooth and sends commands to turn the system
-ON or OFF.
-When ON, the system begins recording data; when OFF, it halts data logging but keeps
-Bluetooth active.
-
-<strong>3. Battery Monitoring:</strong>
-Continuously reads the battery voltage through the ADC pin.
-If the voltage drops below the threshold (e.g., 3.2V), the system:
-and Stops logging data.
-Displays a warning message on the OLED (e.g., "Low Battery: Logging
-Stopped").
-
-<strong>4. Data Logging:</strong>
-While ON, the system:
-Reads sensor data (microphone, temperature, IMU).
-Timestamps the data using the RTC.
-Logs data to the SD card in a structured format (e.g., CSV or JSON).
-When OFF, logging is paused, and the OLED updates with the system status.
-
-<strong>5. Real-Time Display:</strong>
-The OLED continuously updates to show:
-Current battery voltage.
-System status (ON/OFF)
 									</pre>
 
-									
-									
 									<p><strong>DATALOG File:</strong></p>
 									<div>
     										<a href="Documents/DATALOG1.TXT" target="_blank" download="DATALOG.txt">
@@ -166,7 +135,6 @@ System status (ON/OFF)
     										</a>
 									</div>
 									<hr class="major" />
-									
 									
 									<video controls width="500" height="500">
     										<source src="Videos/VID006.mp4" type="video/mp4">
