@@ -15,11 +15,9 @@
 
 		<!-- Wrapper -->
 			<div id="wrapper">
-
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-
 							<!-- Header -->
 								<header id="header">
 									<a href="index.html" class="logo"><strong>Lab6</strong></a>
@@ -35,64 +33,136 @@
 							<!-- Content -->
 								<section>
 									<header class="main">
-										<h1>Gesture Recognisation using Seeed Xiao nRF52840 Sense</h1>
+										<h1>Motion (walking, sitting, standing, descending and ascending) recognization using ML model in Seeed Xiao nRF52840 Sense</h1>
 									</header>
 									
-									<p><strong>Creating a Basic PCB Design</strong></p>
-									<p>We have used a simple JST connector, Resistor and an LED in our PCB design</p>
+									<p><strong>Part 1: Creating a csv file</strong></p>
+									<p>Upload the below code into the seed and perform the guesture to collect the data</p>
 
-									<p><strong>Gerber Files:</strong></p>
+									<p><strong>Code File:</strong></p>
 									<div>
-    										<a href="Documents/Gerber.zip" download="Gerber.zip">Download Gerber.zip</a>
+    										<a href="Documents/Training IMU data_code file.txt" download="Training IMU data_code file.txt">Download Training IMU data_code file.txt</a>
 									</div>
+									<p><strong>walking.csv:</strong></p>
+									<div>
+    										<a href="Documents/walking.csv" download="walking.csv">Download walking.csv</a>
+									</div>
+									<p><strong>sitting.csv:</strong></p>
+									<div>
+    										<a href="Documents/sitting.csv" download="sitting.csv">Download sitting.csv</a>
+									</div>
+									<p><strong>standing.csv:</strong></p>
+									<div>
+    										<a href="Documents/standing.csv" download="standing.csv">Download standing.csv</a>
+									</div>
+									<p><strong>descending.csv:</strong></p>
+									<div>
+    										<a href="Documents/descending.csv" download="descending.csv">Download descending.csv</a>
+									</div>
+									<p><strong>ascending.csv:</strong></p>
+									<div>
+    										<a href="Documents/ascending.csv" download="ascending.csv">Download ascending.csv</a>
+									</div>
+									<p>Here we are performing the gestures such as walking, sitting, standing, steps descending and ascending to get the collect the data. This data is used to train the machine learning model to identify the user gestures</p>
 									
 									<hr class="major" />
 
-									<p><strong>Creating the Schematic and Wiring the Components</strong></p>
+									<p><strong>Setting up Python Environment</strong></p>
 									<span class="image object">
-										<img src="Images/Pic048.png" alt="HLE" width="800" />
-									</span>
-<pre>
-	As we are using a 3.7V LiPo battery and a red LED (forward voltage ≈ 2V)
-	R = (Vsupply - Vled)/I
-	R = (3.75V-2V)/20mA = 85 ohms
-</pre>
-									
-									<hr class="major" />
-									
-									<p><strong>Assigning Footprints</strong></p>
-									<span class="image object">
-										<img src="Images/Pic049.png" alt="HLE" width="800" />
+										<img src="Images/Pic033.png" alt="HLE" width="800" />
 									</span>
 									<hr class="major" />
 									
-									<p><strong>Creating the PCB Layout and Adding the Board Outline</strong></p>
+									<p><strong>Graph Data</strong></p>
 									<span class="image object">
-										<img src="Images/Pic046.png" alt="HLE" width="800" />
+										<img src="Images/Pic034.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph001.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic044.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph003.png" alt="HLE" width="800" />
 									</span>
 									<hr class="major" />
 									
-									<p><strong>Running Design Rule Check (DRC)</strong></p>
+									<p><strong>Part 2: Train Neural Network</p>
+									<p><strong>a. Parse and prepare the data</strong></p>
 									<span class="image object">
-										<img src="Images/Pic045.png" alt="HLE" width="800" />
+										<img src="Images/Pic035.png" alt="HLE" width="800" />
 									</span>
 									<hr class="major" />
 									
-									<p><strong>Final PCB Design</strong></p>
+									<p><strong>b. Randomize and split the input and output pairs for training</strong></p>
 									<span class="image object">
-										<img src="Images/Pic047.png" alt="HLE" width="800" />
+										<img src="Images/Pic036.png" alt="HLE" width="800" />
 									</span>
-									
 									<hr class="major" />
 									
+									<p><strong>c. Build & Train the Model</strong></p>
+									<span class="image object">
+										<img src="Images/Pic037.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
 									
+									<p><strong>Part 3: Verification</strong></p>
+									<p><strong>a. Graph the loss</strong></p>
+									<span class="image object">
+										<img src="Images/Pic038.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph002.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
 									
+									<p><strong>b. Graph the loss again, skipping a bit of the start</strong></p>
+									<span class="image object">
+										<img src="Images/Pic039.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
 									
+									<p><strong>c. Graph the mean absolute error</strong></p>
+									<span class="image object">
+										<img src="Images/Pic040.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
 									
+									<p><strong>d. Run with Test Data</strong></p>
+									<span class="image object">
+										<img src="Images/Pic041.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
 									
+									<p><strong>Convert the Trained Model to Tensor Flow Lite</strong></p>
+									<span class="image object">
+										<img src="Images/Pic042.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Encode the Model in an Arduino Header File</strong></p>
+									<span class="image object">
+										<img src="Images/Pic043.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<pre>
+									</pre>
 
+									<p><strong>model.h txt File:</strong></p>
+									<div>
+    										<a href="Documents/modelh.txt" download="modelh.txt">Download model.h txt file</a>
+        									Click here to view or download the document
+    										</a>
+									</div>
+									<hr class="major" />
 									
-									
+									<video controls width="500" height="500">
+    										<source src="Videos/VID008.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<hr class="major" />
 									
 								</section>
 
