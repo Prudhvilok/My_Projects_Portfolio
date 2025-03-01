@@ -2069,6 +2069,16 @@ button,
         top: 1em;
         width: 5em; } }
 
+/* Submenu visibility toggle */
+.submenu {
+    display: none;
+}
+
+.submenu.open {
+    display: block;
+}
+
+
 /* Header */
 #header {
   display: -moz-flex;
