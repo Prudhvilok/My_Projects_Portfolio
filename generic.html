@@ -77,10 +77,24 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script>
+    				// Fetch the sidebar.html content
     				fetch("sidebar.html")
-       			 		.then(response => response.text())
-        				.then(data => document.getElementById("sidebar-container").innerHTML = data);
+        				.then(response => response.text())
+        				.then(data => {
+            					// Insert the sidebar into the sidebar-container
+            					document.getElementById("sidebar-container").innerHTML = data;
+
+            					// Add event listener for Lab Assignments submenu
+            					const opener = document.querySelector('.opener');
+            					if (opener) {
+                					opener.addEventListener('click', function() {
+                    						const submenu = this.nextElementSibling;
+                    						submenu.classList.toggle('open');  // Toggle the 'open' class to show/hide the submenu
+                				});
+            				}
+        			});
 			</script>
+
 
 
 	</body>
