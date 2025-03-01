@@ -78,15 +78,8 @@
 			<script src="assets/js/main.js"></script>
 			<script>
     				fetch("sidebar.html")
-        				.then(response => response.text())
-        				.then(data => {
-            					document.getElementById("sidebar-container").innerHTML = data;
-
-           	 				// Ensure scripts inside sidebar are reloaded
-            					let script = document.createElement("script");
-            					script.src = "assets/js/sidebar.js"; // Replace with your actual script
-            					document.body.appendChild(script);
-        					});
+       			 		.then(response => response.text())
+        				.then(data => document.getElementById("sidebar-container").innerHTML = data);
 			</script>
 
 
