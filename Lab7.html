@@ -1,0 +1,342 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Lab7</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Lab7</strong></a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>Motion (walking, sitting, standing, descending and ascending) recognization using ML model in Seeed Xiao nRF52840 Sense</h1>
+									</header>
+									
+									<p><strong>Part 1: Creating a csv file</strong></p>
+									<p>Upload the below code into the seed and perform the guesture to collect the data</p>
+
+									<p><strong>Code File:</strong></p>
+									<div>
+    										<a href="Documents/Training IMU data_code file.txt" download="Training IMU data_code file.txt">Download Training IMU data_code file.txt</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>walking.csv:</strong></p>
+									<div>
+    										<a href="Documents/walking.csv" download="walking.csv">Download walking.csv</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>sitting.csv:</strong></p>
+									<div>
+    										<a href="Documents/sitting.csv" download="sitting.csv">Download sitting.csv</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>standing.csv:</strong></p>
+									<div>
+    										<a href="Documents/standing.csv" download="standing.csv">Download standing.csv</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>descending.csv:</strong></p>
+									<div>
+    										<a href="Documents/descending.csv" download="descending.csv">Download descending.csv</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>ascending.csv:</strong></p>
+									<div>
+    										<a href="Documents/ascending.csv" download="ascending.csv">Download ascending.csv</a>
+									</div>
+									<br>
+									<hr class="major" />
+									
+									<p><strong>IMU Processing File:</strong></p>
+									<div>
+    										<a href="Documents/Lab6_IMU_Processing.ipynb" download="Lab6_IMU_Processing.ipynb">Download Lab6_IMU_Processing.ipynb</a>
+									</div>
+									<br>
+									<hr class="major" />
+
+									<p><strong>IMU Classifier Code File:</strong></p>
+									<div>
+    										<a href="Documents/IMU_Classifier.ino" download="IMU_Classifier.ino">Download IMU_Classifier.ino</a>
+									</div>
+									<br>
+									<hr class="major" />
+
+									<p><strong>BLE Data Collection Code File:</strong></p>
+									<div>
+    										<a href="Documents/BLE_Data_Collection_Code.ino" download="BLE_Data_Collection_Code.ino">Download BLE_Data_Collection_Code.ino</a>
+									</div>
+									<br>
+
+									
+									<p>Here we are performing the gestures such as walking, sitting, standing, steps descending and ascending to get the collect the data. This data is used to train the machine learning model to identify the user gestures</p>
+									
+									<hr class="major" />
+
+									<p><strong>Setting up Python Environment</strong></p>
+									<span class="image object">
+										<img src="Images/Pic033.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Graph Data</strong></p>
+									<span class="image object">
+										<img src="Images/Pic050.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic051.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph004.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph005.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic052.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph006.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph007.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic053.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph008.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph009.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic054.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph010.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph011.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic055.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph012.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph013.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Part 2: Train Neural Network</p>
+									<p><strong>a. Parse and prepare the data</strong></p>
+									<span class="image object">
+										<img src="Images/Pic056.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic057.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>b. Randomize and split the input and output pairs for training</strong></p>
+									<span class="image object">
+										<img src="Images/Pic058.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>c. Build & Train the Model</strong></p>
+									<span class="image object">
+										<img src="Images/Pic059.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Part 3: Verification</strong></p>
+									<p><strong>a. Graph the loss</strong></p>
+									<span class="image object">
+										<img src="Images/Pic060.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/graph014.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>b. Graph the loss again, skipping a bit of the start</strong></p>
+									<span class="image object">
+										<img src="Images/Pic061.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>c. Graph the mean absolute error</strong></p>
+									<span class="image object">
+										<img src="Images/Pic062.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>d. Run with Test Data</strong></p>
+									<span class="image object">
+										<img src="Images/Pic063.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Convert the Trained Model to Tensor Flow Lite</strong></p>
+									<span class="image object">
+										<img src="Images/Pic064.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<p><strong>Encode the Model in an Arduino Header File</strong></p>
+									<span class="image object">
+										<img src="Images/Pic065.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<pre>
+									</pre>
+
+									<p><strong>model.h txt File:</strong></p>
+									<div>
+    										<a href="Documents/model.h" download="model.h">Download model.h file</a>
+        									Click here to view or download the document
+    										</a>
+									</div>
+									<hr class="major" />
+									
+									<video controls width="500" height="500">
+    										<source src="Videos/VID009.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<hr class="major" />
+									
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="generic.html">Background</a></li>
+										<li><a href="elements.html">Ongoing Projects</a></li>
+										<li>
+											<span class="opener">Lab Assignments</span>
+											<ul>
+												<li><a href="Lab1&2.html">Lab1&2</a></li>
+												<li><a href="Lab2.html">Lab2</a></li>
+												<li><a href="Lab3.html">Lab3</a></li>
+												<li><a href="Lab4.html">Lab4</a></li>
+												<li><a href="Lab5.html">Lab5</a></li>
+												<li><a href="Lab6.html">Lab6</a></li>
+											</ul>
+										</li>
+										
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Some Heading</h2>
+									</header>
+									<div class="mini-posts">
+										<article>
+											<a href="#" class="image"><img src="images/pic07.jpg" alt="" /></a>
+											<p>Content1</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic08.jpg" alt="" /></a>
+											<p>Content2</p>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/pic09.jpg" alt="" /></a>
+											<p>Content3</p>
+										</article>
+									</div>
+									<ul class="actions">
+										<li><a href="#" class="button">More</a></li>
+									</ul>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<p>Feel Free to reach out to me</p>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">PrudhvilokAttur@my.unt.edu</a></li>
+										<li class="icon solid fa-phone">(000) 000-0000</li>
+										<li class="icon solid fa-home">Denton,Tx - 76205</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			
+
+
+	</body>
+</html>
