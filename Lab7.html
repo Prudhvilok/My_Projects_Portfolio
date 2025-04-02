@@ -33,17 +33,36 @@
 							<!-- Content -->
 								<section>
 									<header class="main">
-										<h1>Motion (walking, sitting, standing, descending and ascending) recognization using ML model in Seeed Xiao nRF52840 Sense</h1>
+										<h1>Object Detection and Traffic light management system</h1>
 									</header>
 									
-									<p><strong>Part 1: Creating a csv file</strong></p>
-									<p>Upload the below code into the seed and perform the guesture to collect the data</p>
+									<p><strong>Part 1: Capturing the Vehicle images</strong></p>
+									<p>Images of different kind of vehicles has been taken through camara module and all those images are stored to train the Machine learning model in Edge Impulse</p>
+									<p>Below code is used to capture the vehicle images thorugh camara module</p>
 
-									<p><strong>Code File:</strong></p>
+									<p><strong>Image Capture Code File:</strong></p>
 									<div>
     										<a href="Documents/Training IMU data_code file.txt" download="Training IMU data_code file.txt">Download Training IMU data_code file.txt</a>
 									</div>
 									<br>
+									<hr class="major" />
+
+									<p><strong>Part 2: Train an ML model</strong></p>
+									<p>Those stored images are added and processed in the interface Edge Impulse and Machine Learning model will be trained with the images provided</p>
+									<p>After validation we can even check its confidence based on some test data</p>
+
+									<span class="image object">
+										<img src="Images/Pic068.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic069.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic070.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic071.png" alt="HLE" width="800" />
+									</span>
 									<hr class="major" />
 									
 									<p><strong>walking.csv:</strong></p>
