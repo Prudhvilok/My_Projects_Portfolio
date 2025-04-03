@@ -1,0 +1,148 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Project Milestone 2</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Project Milestone 2</strong></a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section>
+									<header class="main">
+										<h1>This page contains my Project report and PPT documentation</h1>
+									</header>
+									
+									<p><strong>1.Project Report</strong></p>
+									<p></p>
+									<span class="image object">
+										<img src="Images/Pic026.png" alt="HLE" width="800" />
+									</span>
+                  <p><strong>2.Project PPTt</strong></p>
+                  
+									<p>In our case We have taken 3 resistors, so R1 will be 2 resistors in series and R2 will be the separate resistor.</p>
+									<p>R1 = 680+2200 = 2800 ohms</p>
+									<p>R2 = 10000 ohms</p>
+									<p>Vout = Vin*(R2/(R1+R2))</p>
+									<p>We have Vout = 3.3v and Vin = 4.2v</p>
+									<p>After calculation we will get the R1/R2 ratio as 0.28. So, we have choosen R1 and R2 bases on this ratio.</p>
+									<hr class="major" />
+
+									<p><strong>2.Battery Monitoring</strong></p>
+									<span class="image object">
+										<img src="Images/Pic027.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic028.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									
+									<span class="image object">
+										<img src="Images/Pic029.png" alt="HLE" width="800" />
+									</span>
+									<span class="image object">
+										<img src="Images/Pic030.png" alt="HLE" width="800" />
+									</span>
+									<hr class="major" />
+									<pre>
+<strong>1. System Workflow:</strong>
+<strong>1. System Initialization:</strong>
+On startup, the microcontroller initializes the sensors, RTC, SD card module, and OLED display.
+The OLED shows the current battery voltage and system status (ON/OFF).
+
+<strong>2. Bluetooth Control:</strong>
+The user connects to the system via Bluetooth and sends commands to turn the system
+ON or OFF.
+When ON, the system begins recording data; when OFF, it halts data logging but keeps
+Bluetooth active.
+
+<strong>3. Battery Monitoring:</strong>
+Continuously reads the battery voltage through the ADC pin.
+If the voltage drops below the threshold (e.g., 3.2V), the system:
+and Stops logging data.
+Displays a warning message on the OLED (e.g., "Low Battery: Logging
+Stopped").
+
+<strong>4. Data Logging:</strong>
+While ON, the system:
+Reads sensor data (microphone, temperature, IMU).
+Timestamps the data using the RTC.
+Logs data to the SD card in a structured format (e.g., CSV or JSON).
+When OFF, logging is paused, and the OLED updates with the system status.
+
+<strong>5. Real-Time Display:</strong>
+The OLED continuously updates to show:
+Current battery voltage.
+System status (ON/OFF)
+									</pre>
+
+									
+									
+									<p><strong>DATALOG File:</strong></p>
+									<div>
+    										<a href="Documents/DATALOG1.TXT" target="_blank" download="DATALOG.txt">
+        									Click here to view or download the document
+    										</a>
+									</div>
+									<hr class="major" />
+									
+									
+									<video controls width="500" height="500">
+    										<source src="Videos/VID006.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<video controls width="500" height="500">
+    										<source src="Videos/VID007.mp4" type="video/mp4">
+    										Your browser does not support the video tag.
+									</video>
+									<hr class="major" />
+									
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar-container"></div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script>
+    				fetch("sidebar.html")
+        				.then(response => response.text())
+        				.then(data => document.getElementById("sidebar-container").innerHTML = data);
+			</script>
+
+	</body>
+</html>
