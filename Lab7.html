@@ -72,7 +72,35 @@
 									</span>
 
 									<p><strong>Part 4: Implementing the trafic light system with Object detection</strong></p>
-									<p></p>
+									<pre>
+
+CAR_GO (State 0)
+📍 Traffic Light: Green for Cars, Pedestrian Signal OFF
+📍 Duration: 3000ms
+📍 Transition Conditions:
+• If no car and no pedestrian → stay in CAR_GO.
+• If a car is detected or pedestrian presses button → transition to CAR_WAIT.
+										
+CAR_WAIT (State 1)
+📍 Traffic Light: Yellow for Cars, Pedestrian Signal OFF
+📍 Duration: 2000ms
+📍 Transition Conditions:
+• After delay, switch to PEDESTRIAN_GO.
+										
+PEDESTRIAN_GO (State 2)
+📍 Traffic Light: Red for Cars, Pedestrian Signal BLINKING
+📍 Duration: 5000ms
+📍 Transition Conditions:
+• If pedestrian still pressing → stay in PEDESTRIAN_GO.
+• If pedestrian stops pressing → transition to PEDESTRIAN_WAIT.
+										
+PEDESTRIAN_WAIT (State 3)
+📍 Traffic Light: Red for Cars, Pedestrian Signal SOLID
+📍 Duration: 2000ms
+📍 Transition Conditions:
+• Return to CAR_GO when the pedestrian phase is complete.
+
+									</pre>
 									<div>
     										<a href="Documents/walking.csv" download="walking.csv">Download walking.csv</a>
 									</div>
