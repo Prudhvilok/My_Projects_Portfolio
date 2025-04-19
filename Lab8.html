@@ -40,7 +40,7 @@
 
 									<p><strong>Image Capture Code File:</strong></p>
 									<div>
-    										<a href="Documents/ESP32_Camara_Image_Capture.ino" download="ESP32_Camara_Image_Capture.ino">Download ESP32_Camara_Image_Capture.ino</a>
+    										<a href="Documents/LAB8code.ino" download="codefile.ino">codefile.ino</a>
 									</div>
 									<br>
 									<hr class="major" />
@@ -50,69 +50,11 @@
 									<p>After validation we can even check its confidence based on some test data</p>
 
 									<span class="image object">
-										<img src="Images/Pic068.png" alt="HLE" width="800" />
-									</span>
-									<span class="image object">
-										<img src="Images/Pic069.png" alt="HLE" width="800" />
-									</span>
-									<span class="image object">
-										<img src="Images/Pic070.png" alt="HLE" width="800" />
-									</span>
-									<span class="image object">
-										<img src="Images/Pic071.png" alt="HLE" width="800" />
+										<img src="Images/Pic073.png" alt="HLE" width="800" />
 									</span>
 									<hr class="major" />
 									
-									<p><strong>Part 3: Circuit connection</strong></p>
-									<p>Here we connect the traffic light circut and implement object detection mechanism as below</p>
-									<span class="image object">
-										<img src="Images/Pic072.png" alt="HLE" width="800" />
-									</span>
-									<hr class="major" />
-
-									<p><strong>Part 4: Implementing the trafic light system with Object detection</strong></p>
-									<pre>
-
-CAR_GO (State 0)
-📍 Traffic Light: Green for Cars, Pedestrian Signal OFF
-📍 Duration: 3000ms
-📍 Transition Conditions:
-• If no car and no pedestrian → stay in CAR_GO.
-• If a car is detected or pedestrian presses button → transition to CAR_WAIT.
-										
-CAR_WAIT (State 1)
-📍 Traffic Light: Yellow for Cars, Pedestrian Signal OFF
-📍 Duration: 2000ms
-📍 Transition Conditions:
-• After delay, switch to PEDESTRIAN_GO.
-										
-PEDESTRIAN_GO (State 2)
-📍 Traffic Light: Red for Cars, Pedestrian Signal BLINKING
-📍 Duration: 5000ms
-📍 Transition Conditions:
-• If pedestrian still pressing → stay in PEDESTRIAN_GO.
-• If pedestrian stops pressing → transition to PEDESTRIAN_WAIT.
-										
-PEDESTRIAN_WAIT (State 3)
-📍 Traffic Light: Red for Cars, Pedestrian Signal SOLID
-📍 Duration: 2000ms
-📍 Transition Conditions:
-• Return to CAR_GO when the pedestrian phase is complete.
-
-									</pre>
-									<p><strong>Implementation code file:</strong></p>
-									<div>
-    										<a href="Documents/ESP32_TrafficLight_ObjectDetection.ino" download="ESP32_TrafficLight_ObjectDetection.ino">Download ESP32_TrafficLight_ObjectDetection.ino</a>
-									</div>
 									
-									<br>
-									<hr class="major" />
-									
-									<video controls width="500" height="500">
-    										<source src="Videos/VID010.mp4" type="video/mp4">
-    										Your browser does not support the video tag.
-									</video>
-									<hr class="major" />
 									
 								</section>
 
